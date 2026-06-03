@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# Model outputs (too large for git — use HuggingFace Hub instead)
+outputs/model/
+outputs/logs/
+
+# Keep confusion matrix plot
+!outputs/confusion_matrix.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# WandB
+wandb/
+
+# Env
+.env
+
+# OS
+.DS_Store
