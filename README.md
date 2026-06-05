@@ -130,5 +130,4 @@ Training curves tracked with Weights & Biases:
 
 ## 👤 Author
 
-**Harshavarthan** — Data Scientist @ Strand Life Sciences  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/harsh7offl)
+**Harshavarthan** — [GitHub](https://github.com/harsh7offl)
